@@ -4,6 +4,7 @@ package com.bdqn.entity;
  * Created by lenovo on 2018/3/13.
  */
 public class Student {
+    /*dddd*/
     private Integer id;
     private String studentName;
     private String gender;
